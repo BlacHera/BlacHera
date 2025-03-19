@@ -1,14 +1,14 @@
 # 👋 Hello World, I'm Phyllis
 
 🌍 About Me
-I'm a Cloud Engineering Enthusiast transitioning into tech with a background in Communication for Development and International Business Management. Passionate about cloud solutions architecture, AWS, and technology for development, I love exploring innovative ways to bridge gaps in tech, particularly focusing on women, technology, and development in Ghana.
+I'm a Cloud Engineering Enthusiast transitioning into tech with a Communication for Development and International Business Management background. Passionate about cloud solutions architecture, AWS, and technology for development, I love exploring innovative ways to bridge gaps in tech, particularly focusing on women, technology, and development.
 
 ## 💻 What I Do
 
 🌩️ Cloud Engineering – Currently taking the AWS re/Start course, working on AWS projects.
 🖥️ Frontend Development – Experience in React, Bootstrap, and Python.
 🎓 Learning AWS – Preparing for AWS Cloud Practitioner and Associate-level certifications.
-📚 Research & Development – Interested in tech's impact on society and future PhD aspirations.
+
 
 ## 🛠️ Tech Stack
 
