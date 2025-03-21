@@ -1,6 +1,6 @@
 # 👋 Hello World, I'm Phyllis
 
-##🌍 About Me
+## 🌍 About Me
 I'm a Cloud Engineering Enthusiast transitioning into tech with a Communication for Development and International Business Management background. Passionate about cloud solutions architecture, AWS, and technology for development, I love exploring innovative ways to bridge gaps in tech, particularly focusing on women, technology, and development.
 
 ## 💻 What I Do
